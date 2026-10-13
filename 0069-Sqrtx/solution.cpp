@@ -14,6 +14,6 @@ public:
             else j=m-1;
         }
         return i;
-
     }
+    
 };
